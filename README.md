@@ -1,0 +1,2 @@
+# cli-note
+cli note
