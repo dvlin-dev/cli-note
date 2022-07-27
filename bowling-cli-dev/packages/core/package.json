@@ -1,13 +1,13 @@
 {
   "name": "@bowling-cli-dev/core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "author": "zhangbaolin <zhangbaolin@zhihu.com>",
   "homepage": "https://github.com/bowlingQ/cli-note#readme",
   "license": "ISC",
   "main": "lib/core.js",
-  "bin":{
-    "bowling-cli":"bin/index.js"
+  "bin": {
+    "bowling-cli": "bin/index.js"
   },
   "directories": {
     "lib": "lib",
