@@ -1,0 +1,32 @@
+{
+  "name": "@bowling-cli-dev/core",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "zhangbaolin <zhangbaolin@zhihu.com>",
+  "homepage": "https://github.com/bowlingQ/cli-note#readme",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bowlingQ/cli-note.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/bowlingQ/cli-note/issues"
+  },
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
