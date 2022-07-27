@@ -1,0 +1,18 @@
+{
+  "name": "@bowling-cli-dev/core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "bin": {
+    "bowling-cli-dev":"cli/bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "import-local": "^3.1.0",
+    "npmlog": "^6.0.2"
+  }
+}
