@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "description": "> TODO: description",
   "author": "zhangbaolin <zhangbaolin@zhihu.com>",
-  "homepage": "https://github.com/bowlingQ/cli-note#readme",
+  "homepage": "",
   "license": "ISC",
   "main": "lib/utils.js",
   "directories": {
@@ -28,5 +28,6 @@
   },
   "dependencies": {
     "chalk": "^5.0.1"
-  }
+  },
+  "gitHead": "b2229329286bb8d4885f2a18f08e85f063884757"
 }
