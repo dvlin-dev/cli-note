@@ -9,3 +9,6 @@
 - lerna clean 删除node_modules
 # 发布
 - lerna version 增加version
+- lerna diff 
+- lerna changed 
+- lerna publish 发布
